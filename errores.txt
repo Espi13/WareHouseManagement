@@ -1,0 +1,64 @@
+[28/05/14 19:23:57]: Se ha intentado anadir un stock con codigo de articulo que no existe 11
+ 
+[28/05/14 19:24:29]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:24:35]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:24:43]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:24:50]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:24:55]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:24:57]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:01]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:02]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:03]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:03]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:03]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:03]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:04]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:04]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:04]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:04]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:04]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:05]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:05]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:05]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:05]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:05]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:06]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:06]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:06]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:06]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:06]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:07]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:07]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:07]: Se ha intentado anadir un articulo con codigo 123
+ 
+[28/05/14 19:25:08]: Se ha intentado anadir un articulo con codigo 123
+ 
